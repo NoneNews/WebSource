@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nonebot阳间新闻网站</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Nonebot阳间新闻网站</description>
+    <title>Posts on Nonebot阳间新闻网站</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Nonebot阳间新闻网站</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 28 Sep 2024 22:57:49 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
       <link>http://localhost:1313/post/first/</link>
