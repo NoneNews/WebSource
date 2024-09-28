@@ -7,8 +7,8 @@ theme = "spectre-pixel"
 googleAnalytics = ""
 
 [params]
-  name = "John Doe"                     # 你的名字
-  altName = "John"                      # 简写
+  name = "沐浴晨煦"                     # 你的名字
+  altName = "晨煦"                      # 简写
   description = "Describe your website" # 你的网站描述
   bio = "Blogger & Programmer"
   enableRSS = true                      # 是否启用RSS(订阅相关)
