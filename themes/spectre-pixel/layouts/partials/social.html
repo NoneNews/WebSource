@@ -1,5 +1,5 @@
 <div class="container">
-{{ range $key, $val := .Site.Social }}
+{{ range $key, $val := .Site.Params.Social }}
   {{ if eq $key "email" }}
     <a class="symbol" href="mailto:{{ $val }}" target="_blank"><i class="fas fa-envelope"></i>
   {{ else }}

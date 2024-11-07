@@ -41,12 +41,12 @@ googleAnalytics = ""
 	subtitle404 = ""
 
 # Add additional social link entries underneath
-[social]
-	email    = "None"
-	facebook = "https://www.facebook.com/"
-	github   = "https://www.github.com/"
-	linkedin = "https://www.linkedin.com/"
-	twitter  = "https://www.twitter.com/"
+  [Social]
+    email    = "None"
+    facebook = "https://www.facebook.com/"
+    github   = "https://www.github.com/"
+    linkedin = "https://www.linkedin.com/"
+    twitter  = "https://www.twitter.com/"
 
 [taxonomies]
   tag = "tags"
