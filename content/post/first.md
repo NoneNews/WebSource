@@ -1,6 +1,6 @@
 ---
 title: "ddl爷爷深情课文【2024/11/7】"
-description: "*"
+description: "* Nonebot插件被koishi偷师，ddl爷爷使用插件击败koishi深情课文"
 date: 2024-09-28T22:57:49+08:00
 tags: [
     "",
