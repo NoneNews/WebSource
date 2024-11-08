@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/_index.md",
+                "file": "post/2024_11_8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "2024_11_8"
             }
           }
         ]
@@ -164,9 +164,9 @@
   },
   "active": "a2eb6031b302a85a",
   "lastOpenFiles": [
+    "about/_index.md",
     "post/2024_11_8.md",
     "2024-11-8.md",
-    "post/2024-11-8.md",
-    "about/_index.md"
+    "post/2024-11-8.md"
   ]
 }
